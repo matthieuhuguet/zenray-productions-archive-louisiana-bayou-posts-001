@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-08T21:14:15.432Z",
+ "scannedAt": "2026-10-08T21:34:33.156Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -85,18 +85,18 @@
   },
   {
    "projectId": "louisiana-bayou",
-   "lines": 293,
-   "work": 85,
-   "prompts": 48,
+   "lines": 300,
+   "work": 86,
+   "prompts": 50,
    "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T21:03:06.876Z",
+   "last": "2026-10-08T21:25:30.252Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T21:14:05.437Z",
-   "bytes": 200315699,
+   "updatedAt": "2026-10-08T21:34:30.835Z",
+   "bytes": 208070633,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -597,6 +597,22 @@
   },
   {
    "projectId": "louisiana-bayou",
+   "lines": 5,
+   "work": 1,
+   "prompts": 0,
+   "first": "2026-10-08T20:13:19.641Z",
+   "last": "2026-10-08T21:21:04.279Z",
+   "strength": "weak",
+   "conversationId": "claude:fa4b854c-d32b-463e-9994-34b34d998356",
+   "provider": "claude",
+   "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
+   "title": "Montage vidéo pot tournage",
+   "updatedAt": "2026-10-08T21:31:49.677Z",
+   "bytes": 20766,
+   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
+  },
+  {
+   "projectId": "louisiana-bayou",
    "lines": 2,
    "work": 1,
    "prompts": 0,
@@ -839,22 +855,6 @@
    "projectId": "louisiana-bayou",
    "lines": 2,
    "work": 0,
-   "prompts": 0,
-   "first": "2026-10-08T20:13:19.641Z",
-   "last": "2026-10-08T21:01:32.812Z",
-   "strength": "weak",
-   "conversationId": "claude:fa4b854c-d32b-463e-9994-34b34d998356",
-   "provider": "claude",
-   "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
-   "title": "Montage vidéo pot tournage",
-   "updatedAt": "2026-10-08T21:12:26.572Z",
-   "bytes": 20733,
-   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 2,
-   "work": 0,
    "prompts": 1,
    "first": "2026-10-07T22:16:59.755Z",
    "last": "2026-10-07T22:16:59.756Z",
@@ -1089,6 +1089,22 @@
    "title": "InstagramCommunication",
    "updatedAt": "2026-08-16T14:31:17.711Z",
    "bytes": 899,
+   "boundProject": null
+  },
+  {
+   "projectId": "louisiana-bayou",
+   "lines": 1,
+   "work": 0,
+   "prompts": 0,
+   "first": "2026-10-08T21:30:54.798Z",
+   "last": "2026-10-08T21:30:54.798Z",
+   "strength": "weak",
+   "conversationId": "claude:f34e2192-4574-4f42-a42a-1615ed66cbdf",
+   "provider": "claude",
+   "sessionId": "f34e2192-4574-4f42-a42a-1615ed66cbdf",
+   "title": "Son Zelda modifications premium",
+   "updatedAt": "2026-10-08T21:32:54.241Z",
+   "bytes": 20653,
    "boundProject": null
   },
   {
