@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-08T16:50:57.821Z",
+ "scannedAt": "2026-10-08T20:03:16.368Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -85,6 +85,22 @@
   },
   {
    "projectId": "louisiana-bayou",
+   "lines": 284,
+   "work": 84,
+   "prompts": 45,
+   "first": "2026-10-07T12:25:29.615Z",
+   "last": "2026-10-08T20:02:33.464Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "provider": "codex",
+   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "title": "Conversation codex 01a11653",
+   "updatedAt": "2026-10-08T20:03:12.644Z",
+   "bytes": 182810008,
+   "boundProject": "zenray-assets-v2"
+  },
+  {
+   "projectId": "louisiana-bayou",
    "lines": 197,
    "work": 71,
    "prompts": 30,
@@ -97,22 +113,6 @@
    "title": "Conversation codex 01a0fc34",
    "updatedAt": "2026-10-06T02:03:41.129Z",
    "bytes": 118310043,
-   "boundProject": "zenray-assets-v2"
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 196,
-   "work": 53,
-   "prompts": 33,
-   "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T16:44:51.649Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "provider": "codex",
-   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T16:50:57.310Z",
-   "bytes": 133235154,
    "boundProject": "zenray-assets-v2"
   },
   {
