@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-08T21:50:32.924Z",
+ "scannedAt": "2026-10-08T22:04:13.879Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -85,18 +85,18 @@
   },
   {
    "projectId": "louisiana-bayou",
-   "lines": 302,
+   "lines": 305,
    "work": 86,
-   "prompts": 51,
+   "prompts": 52,
    "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T21:46:22.537Z",
+   "last": "2026-10-08T22:03:13.899Z",
    "strength": "strong",
    "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
    "provider": "codex",
    "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
    "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T21:50:32.668Z",
-   "bytes": 210515283,
+   "updatedAt": "2026-10-08T22:04:13.636Z",
+   "bytes": 214736989,
    "boundProject": "zenray-assets-v2"
   },
   {
@@ -607,8 +607,8 @@
    "provider": "claude",
    "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
    "title": "Montage vidéo pot tournage",
-   "updatedAt": "2026-10-08T21:31:49.677Z",
-   "bytes": 20766,
+   "updatedAt": "2026-10-08T22:03:14.518Z",
+   "bytes": 20658,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {
@@ -1103,9 +1103,9 @@
    "provider": "claude",
    "sessionId": "f34e2192-4574-4f42-a42a-1615ed66cbdf",
    "title": "Son Zelda modifications premium",
-   "updatedAt": "2026-10-08T21:50:01.260Z",
-   "bytes": 1558822,
-   "boundProject": null
+   "updatedAt": "2026-10-08T22:00:08.016Z",
+   "bytes": 20649,
+   "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {
    "projectId": "louisiana-bayou",
