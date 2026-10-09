@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-08T22:04:13.879Z",
+ "scannedAt": "2026-10-09T00:53:13.606Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -69,6 +69,22 @@
   },
   {
    "projectId": "louisiana-bayou",
+   "lines": 377,
+   "work": 107,
+   "prompts": 66,
+   "first": "2026-10-07T12:25:29.615Z",
+   "last": "2026-10-09T00:23:24.474Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "provider": "codex",
+   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "title": "Conversation codex 01a11653",
+   "updatedAt": "2026-10-09T00:53:12.681Z",
+   "bytes": 323170380,
+   "boundProject": "zenray-assets-v2"
+  },
+  {
+   "projectId": "louisiana-bayou",
    "lines": 639,
    "work": 93,
    "prompts": 7,
@@ -82,22 +98,6 @@
    "updatedAt": "2026-09-23T17:08:49.694Z",
    "bytes": 79022,
    "boundProject": null
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 305,
-   "work": 86,
-   "prompts": 52,
-   "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-08T22:03:13.899Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "provider": "codex",
-   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-08T22:04:13.636Z",
-   "bytes": 214736989,
-   "boundProject": "zenray-assets-v2"
   },
   {
    "projectId": "louisiana-bayou",
@@ -607,8 +607,8 @@
    "provider": "claude",
    "sessionId": "fa4b854c-d32b-463e-9994-34b34d998356",
    "title": "Montage vidéo pot tournage",
-   "updatedAt": "2026-10-08T22:03:14.518Z",
-   "bytes": 20658,
+   "updatedAt": "2026-10-08T22:57:52.446Z",
+   "bytes": 20711,
    "boundProject": "poisson-gloss-matthieu-poterie-aix-8-octobre-2026"
   },
   {
