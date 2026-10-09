@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-09T10:58:55.119Z",
+ "scannedAt": "2026-10-09T11:29:03.751Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
-   "lines": 3197,
-   "work": 608,
+   "lines": 3204,
+   "work": 609,
    "prompts": 36,
    "first": "2026-09-15T15:05:32.341Z",
-   "last": "2026-10-09T10:54:21.696Z",
+   "last": "2026-10-09T11:17:34.542Z",
    "strength": "strong",
    "conversationId": "claude:2562b086-836d-49c5-80c7-0c935a98513c",
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-09T10:54:35.025Z",
-   "bytes": 23750,
+   "updatedAt": "2026-10-09T11:20:53.586Z",
+   "bytes": 23737,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -53,6 +53,22 @@
   },
   {
    "projectId": "louisiana-bayou",
+   "lines": 580,
+   "work": 161,
+   "prompts": 106,
+   "first": "2026-10-07T12:25:29.615Z",
+   "last": "2026-10-09T11:14:16.199Z",
+   "strength": "strong",
+   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "provider": "codex",
+   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
+   "title": "Conversation codex 01a11653",
+   "updatedAt": "2026-10-09T11:28:30.627Z",
+   "bytes": 639528073,
+   "boundProject": "zenray-assets-v2"
+  },
+  {
+   "projectId": "louisiana-bayou",
    "lines": 348,
    "work": 159,
    "prompts": 8,
@@ -66,22 +82,6 @@
    "updatedAt": "2026-09-19T19:59:28.827Z",
    "bytes": 16435011,
    "boundProject": null
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 565,
-   "work": 158,
-   "prompts": 106,
-   "first": "2026-10-07T12:25:29.615Z",
-   "last": "2026-10-09T10:58:15.399Z",
-   "strength": "strong",
-   "conversationId": "codex:01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "provider": "codex",
-   "sessionId": "01a11653-69f5-7492-b80e-dbcc6a785d87",
-   "title": "Conversation codex 01a11653",
-   "updatedAt": "2026-10-09T10:58:29.292Z",
-   "bytes": 637302260,
-   "boundProject": "zenray-assets-v2"
   },
   {
    "projectId": "louisiana-bayou",
