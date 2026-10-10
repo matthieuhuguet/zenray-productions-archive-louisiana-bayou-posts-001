@@ -1,22 +1,22 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-10T22:18:32.249Z",
+ "scannedAt": "2026-10-10T22:37:30.609Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
-   "lines": 5025,
-   "work": 1079,
-   "prompts": 59,
+   "lines": 5065,
+   "work": 1085,
+   "prompts": 61,
    "first": "2026-09-15T15:05:32.341Z",
-   "last": "2026-10-10T22:18:06.545Z",
+   "last": "2026-10-10T22:35:43.279Z",
    "strength": "strong",
    "conversationId": "claude:2562b086-836d-49c5-80c7-0c935a98513c",
    "provider": "claude",
    "sessionId": "2562b086-836d-49c5-80c7-0c935a98513c",
    "title": "Vegetations Creating Materials October 2026",
-   "updatedAt": "2026-10-10T22:18:06.545Z",
-   "bytes": 1396657631,
+   "updatedAt": "2026-10-10T22:36:52.683Z",
+   "bytes": 23593,
    "boundProject": "vegetation-assets-collection-01"
   },
   {
@@ -895,8 +895,8 @@
    "provider": "claude",
    "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
    "title": "Vidéo motion design OneKey Pro 2",
-   "updatedAt": "2026-10-10T22:16:44.542Z",
-   "bytes": 21040,
+   "updatedAt": "2026-10-10T22:37:26.447Z",
+   "bytes": 20587,
    "boundProject": "zenray-motion-design-01"
   },
   {
@@ -959,8 +959,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-10T22:17:19.248Z",
-   "bytes": 20846,
+   "updatedAt": "2026-10-10T22:36:20.762Z",
+   "bytes": 20842,
    "boundProject": null
   },
   {
