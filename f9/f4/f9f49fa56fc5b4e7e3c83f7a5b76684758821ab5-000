@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-11T12:10:32.852Z",
+ "scannedAt": "2026-10-11T12:58:53.691Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -951,6 +951,22 @@
    "projectId": "louisiana-bayou",
    "lines": 2,
    "work": 0,
+   "prompts": 0,
+   "first": "2026-10-10T20:53:28.651Z",
+   "last": "2026-10-10T20:53:47.390Z",
+   "strength": "weak",
+   "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
+   "provider": "claude",
+   "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
+   "title": "Monitoring film upload deployment",
+   "updatedAt": "2026-10-11T12:58:19.611Z",
+   "bytes": 21061,
+   "boundProject": null
+  },
+  {
+   "projectId": "louisiana-bayou",
+   "lines": 2,
+   "work": 0,
    "prompts": 1,
    "first": "2026-10-11T11:56:32.733Z",
    "last": "2026-10-11T11:56:32.734Z",
@@ -962,22 +978,6 @@
    "updatedAt": "2026-10-11T11:57:48.734Z",
    "bytes": 760044,
    "boundProject": "conversation-codex-bda04145d7f792b08c0d8f03"
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 2,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-10T20:53:28.651Z",
-   "last": "2026-10-10T20:53:47.390Z",
-   "strength": "weak",
-   "conversationId": "claude:3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "provider": "claude",
-   "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
-   "title": "Monitoring film upload deployment",
-   "updatedAt": "2026-10-11T11:45:17.700Z",
-   "bytes": 5224582,
-   "boundProject": null
   },
   {
    "projectId": "louisiana-bayou",
