@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-11T14:34:37.445Z",
+ "scannedAt": "2026-10-11T15:29:52.384Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -149,6 +149,22 @@
   },
   {
    "projectId": "louisiana-bayou",
+   "lines": 108,
+   "work": 32,
+   "prompts": 1,
+   "first": "2026-10-11T14:11:25.131Z",
+   "last": "2026-10-11T15:13:05.961Z",
+   "strength": "strong",
+   "conversationId": "claude:8152bc29-16c2-4858-828d-937ab6240571",
+   "provider": "claude",
+   "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
+   "title": "LOUISIANA BAYOU",
+   "updatedAt": "2026-10-11T15:13:10.697Z",
+   "bytes": 20881,
+   "boundProject": "louisiana-bayou"
+  },
+  {
+   "projectId": "louisiana-bayou",
    "lines": 27,
    "work": 26,
    "prompts": 0,
@@ -162,22 +178,6 @@
    "updatedAt": "2026-08-22T14:40:32.173Z",
    "bytes": 92407382,
    "boundProject": null
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 69,
-   "work": 18,
-   "prompts": 1,
-   "first": "2026-10-11T14:11:25.131Z",
-   "last": "2026-10-11T14:29:13.454Z",
-   "strength": "strong",
-   "conversationId": "claude:8152bc29-16c2-4858-828d-937ab6240571",
-   "provider": "claude",
-   "sessionId": "8152bc29-16c2-4858-828d-937ab6240571",
-   "title": "LOUISIANA BAYOU",
-   "updatedAt": "2026-10-11T14:29:16.966Z",
-   "bytes": 20880,
-   "boundProject": "louisiana-bayou"
   },
   {
    "projectId": "louisiana-bayou",
@@ -437,6 +437,22 @@
   },
   {
    "projectId": "louisiana-bayou",
+   "lines": 29,
+   "work": 1,
+   "prompts": 3,
+   "first": "2026-10-11T14:09:59.041Z",
+   "last": "2026-10-11T15:26:10.325Z",
+   "strength": "strong",
+   "conversationId": "claude:3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "provider": "claude",
+   "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
+   "title": "ZENRAY HEIGHT",
+   "updatedAt": "2026-10-11T15:29:27.043Z",
+   "bytes": 20864,
+   "boundProject": "zenray-height"
+  },
+  {
+   "projectId": "louisiana-bayou",
    "lines": 10,
    "work": 1,
    "prompts": 4,
@@ -578,22 +594,6 @@
    "updatedAt": "2026-09-19T20:26:58.191112+00:00",
    "bytes": 2039808,
    "boundProject": null
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 12,
-   "work": 0,
-   "prompts": 2,
-   "first": "2026-10-11T14:09:59.041Z",
-   "last": "2026-10-11T14:30:04.655Z",
-   "strength": "strong",
-   "conversationId": "claude:3a9c2407-7dcc-4acd-baf2-90a94300e953",
-   "provider": "claude",
-   "sessionId": "3a9c2407-7dcc-4acd-baf2-90a94300e953",
-   "title": "ZENRAY HEIGHT",
-   "updatedAt": "2026-10-11T14:34:34.012Z",
-   "bytes": 9520275,
-   "boundProject": "zenray-height"
   },
   {
    "projectId": "louisiana-bayou",
@@ -927,8 +927,8 @@
    "provider": "claude",
    "sessionId": "e067e0eb-400b-4769-9366-225560e7a0e4",
    "title": "MOTION DESIGN",
-   "updatedAt": "2026-10-11T14:31:58.900Z",
-   "bytes": 17208473,
+   "updatedAt": "2026-10-11T15:18:28.747Z",
+   "bytes": 21003,
    "boundProject": "zenray-motion-design-01"
   },
   {
@@ -991,8 +991,8 @@
    "provider": "claude",
    "sessionId": "3e51dc3d-4e58-441b-abf8-9f6013ebbf24",
    "title": "DRIVE",
-   "updatedAt": "2026-10-11T14:34:30.082Z",
-   "bytes": 6044505,
+   "updatedAt": "2026-10-11T15:24:41.945Z",
+   "bytes": 20917,
    "boundProject": null
   },
   {
