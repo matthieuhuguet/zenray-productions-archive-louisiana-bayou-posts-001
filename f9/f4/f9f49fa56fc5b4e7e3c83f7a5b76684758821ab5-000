@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-11T11:38:18.750Z",
+ "scannedAt": "2026-10-11T11:40:22.096Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -1263,8 +1263,8 @@
    "provider": "claude",
    "sessionId": "6ab0a8c4-7fa2-46a1-b1f4-282a74f8f6f2",
    "title": "Installation Blender macOS",
-   "updatedAt": "2026-10-11T11:38:09.510Z",
-   "bytes": 1675386,
+   "updatedAt": "2026-10-11T11:39:10.426Z",
+   "bytes": 20782,
    "boundProject": "conversation-claude-3918c05f2e72431e7521d763"
   },
   {
