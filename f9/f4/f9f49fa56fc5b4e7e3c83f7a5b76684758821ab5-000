@@ -1,7 +1,7 @@
 {
  "schemaVersion": 1,
  "projectId": "louisiana-bayou",
- "scannedAt": "2026-10-12T13:36:28.189Z",
+ "scannedAt": "2026-10-12T14:57:26.697Z",
  "conversations": [
   {
    "projectId": "louisiana-bayou",
@@ -1016,6 +1016,22 @@
    "lines": 6,
    "work": 0,
    "prompts": 0,
+   "first": "2026-10-12T09:52:06.211Z",
+   "last": "2026-10-12T14:56:18.676Z",
+   "strength": "weak",
+   "conversationId": "claude:d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "provider": "claude",
+   "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
+   "title": "ZenRay Assets UI rework",
+   "updatedAt": "2026-10-12T14:56:25.229Z",
+   "bytes": 6773950,
+   "boundProject": "zenray-assets-tube-view"
+  },
+  {
+   "projectId": "louisiana-bayou",
+   "lines": 6,
+   "work": 0,
+   "prompts": 0,
    "first": "2026-10-11T22:13:26.358Z",
    "last": "2026-10-11T22:42:37.331Z",
    "strength": "weak",
@@ -1058,22 +1074,6 @@
    "updatedAt": "2026-09-30T10:58:03.807Z",
    "bytes": 22075,
    "boundProject": null
-  },
-  {
-   "projectId": "louisiana-bayou",
-   "lines": 3,
-   "work": 0,
-   "prompts": 0,
-   "first": "2026-10-12T09:52:06.211Z",
-   "last": "2026-10-12T10:10:26.635Z",
-   "strength": "weak",
-   "conversationId": "claude:d71651de-2d57-45d0-b20d-830dd146d2ac",
-   "provider": "claude",
-   "sessionId": "d71651de-2d57-45d0-b20d-830dd146d2ac",
-   "title": "ZenRay Assets UI rework",
-   "updatedAt": "2026-10-12T12:11:20.483Z",
-   "bytes": 20996,
-   "boundProject": "zenray-assets-tube-view"
   },
   {
    "projectId": "louisiana-bayou",
